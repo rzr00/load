@@ -1,5 +1,5 @@
 hello,word
 123
 OW
-LPL
-EDG
+LPL is
+EDG is
